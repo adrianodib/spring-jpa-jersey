@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: br.com.cinq
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: adrianodib
+Implementation-Vendor-Id: test-cinq-adrianodib
+Build-Jdk: 1.8.0_77
+Implementation-URL: http://projects.spring.io/spring-boot/br.com.cinq/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
